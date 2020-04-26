@@ -2,7 +2,7 @@
 Virtual Keyboard
 
 # Instructions
-You can access the app here: https://random-quote-app.now.sh/
+You can access the app here: https://virtual-keyboard.now.sh/
 
 ### About
 This is a virtual keyboard that can be integrated with 3rd party applications. 
